@@ -35,6 +35,7 @@ nosetests.xml
 
 # Example project
 example
+manage.py
 
 # Hidden files
 .*
