@@ -37,6 +37,9 @@ nosetests.xml
 example
 manage.py
 
+# Database files
+*.sqlite3
+
 # Hidden files
 .*
 !.gitignore
